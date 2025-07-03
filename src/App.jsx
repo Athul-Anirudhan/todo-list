@@ -1,13 +1,8 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import Input from './components/input'
-import Card from './components/Card'
-import Task from './components/Task'
+import './App.css';
+import Task from './components/task'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
-import About from './components/About'
-import Navbar from './components/Navbar'
+import About from './components/about'
+import Navbar from './components/navbar'
 
 
 function App() {
