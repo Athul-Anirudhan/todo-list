@@ -6,8 +6,8 @@ import Input from './components/input'
 import Card from './components/Card'
 import Task from './components/Task'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
-import About from './components/about'
-import Navbar from './components/navbar'
+import About from './components/About'
+import Navbar from './components/Navbar'
 
 
 function App() {
