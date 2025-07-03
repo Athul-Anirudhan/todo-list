@@ -1,4 +1,4 @@
-import Card from "./card";
+import Card from "./Card";
 import Input from "./Input";
 import { useEffect, useState } from "react";
 
